@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/controllers/LocationsController.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/views/user/_form.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/views/user/update.php</file>
+            <file>file:/C:/Sites/home/map/protected/config/database.php</file>
+            <file>file:/C:/Sites/home/map/index.php</file>
+            <file>file:/C:/Sites/home/map/protected/views/layouts/column2.php</file>
+            <file>file:/C:/Sites/home/map/protected/components/WebUser.php</file>
+            <file>file:/C:/Sites/home/map/protected/views/site/map.php</file>
+            <file>file:/C:/Sites/home/map/protected/config/auth.php</file>
+            <file>file:/C:/Sites/home/map/protected/models/LoginForm.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/controllers/UserController.php</file>
+            <file>file:/C:/Sites/home/map/protected/views/site/registration.php</file>
+            <file>file:/C:/Sites/home/map/protected/components/UserIdentity.php</file>
+            <file>file:/C:/Sites/home/map/protected/components/Controller.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/views/user/view.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/views/user/_search.php</file>
+            <file>file:/C:/Sites/home/map/protected/views/layouts/main.php</file>
+            <file>file:/C:/Sites/home/map/protected/views/site/index.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/AdminModule.php</file>
+            <file>file:/C:/Sites/home/map/protected/models/ContactForm.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/views/locations/index.php</file>
+            <file>file:/C:/Sites/home/map/protected/models/Cities.php</file>
+            <file>file:/C:/Sites/home/map/protected/views/site/login.php</file>
+            <file>file:/C:/Sites/home/map/protected/components/PhpAuthManager.php</file>
+            <file>file:/C:/Sites/home/map/protected/models/User.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/controllers/DefaultController.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/views/default/index.php</file>
+            <file>file:/C:/Sites/home/map/protected/models/Street.php</file>
+            <file>file:/C:/Sites/home/map/protected/modules/admin/views/user/index.php</file>
+            <file>file:/C:/Sites/home/map/protected/views/site/pages/about.php</file>
+            <file>file:/C:/Sites/home/map/css/non-responsive.css</file>
+            <file>file:/C:/Sites/home/map/protected/config/console.php</file>
+            <file>file:/C:/Sites/home/map/css/main.css</file>
+            <file>file:/C:/Sites/home/map/protected/views/site/contact.php</file>
+            <file>file:/C:/Sites/home/map/protected/config/main.php</file>
+            <file>file:/C:/Sites/home/map/protected/views/layouts/column1.php</file>
+            <file>file:/C:/Sites/home/map/protected/config/test.php</file>
+            <file>file:/C:/Sites/home/map/protected/models/House.php</file>
+            <file>file:/C:/Sites/home/map/protected/controllers/SiteController.php</file>
+        </group>
+    </open-files>
+</project-private>
